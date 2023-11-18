@@ -1,0 +1,11 @@
+Book Luceafarul written by Rebreanu  has ISBN 368988285 
+Book Plumb  written by Sadoveanu  has ISBN 114850534 
+Book Ion  written by Sadoveanu  has ISBN 677135245 
+Book Ion  written by Rebreanu  has ISBN 352469681 
+Book Luceafarul written by Sadoveanu  has ISBN 153841013 
+Book Ion  written by Bacovia  has ISBN 761847966 
+Book Plumb  written by Rebreanu  has ISBN 510601003 
+Book Plumb  written by Rebreanu  has ISBN 773893673 
+Book Luceafarul written by Caragiale  has ISBN 250290124 
+Book Ion  written by Sadoveanu  has ISBN 401288344 
+Book andrei written by vlad has ISBN 234 
