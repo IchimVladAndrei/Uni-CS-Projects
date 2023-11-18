@@ -2,7 +2,7 @@
 
 ## Semester 1️⃣
 
-- [Fundamentals of Programming]()
+- [Fundamentals of Programming](https://github.com/IchimVladAndrei/Uni-CS-Projects/tree/main/Fundamentals%20of%20Programming)
 - [Computer Systems Architecture]()
 
 ## Semester 2️⃣
